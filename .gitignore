@@ -2,3 +2,9 @@ a.out
 __pycache__
 parser.c
 .gitignore
+.infectore_file_linux.py
+chapitre_20/file_chiffrement.py
+chapitre_20/file_processus.py
+chapitre_20/infector_file_linux.py
+chapitre_20/infector_file_windows.py
+chapitre_20/
